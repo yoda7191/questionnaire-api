@@ -1,0 +1,10 @@
+fastapi==0.142.2
+uvicorn[standard]==0.54.0
+sqlalchemy==2.1.3
+pydantic==2.13.5
+pydantic-settings==2.15.0
+pytest==9.1.1
+pytest-cov==7.1.0
+pytest-testmon
+httpx2==2.13.1
+ruff==0.16.10

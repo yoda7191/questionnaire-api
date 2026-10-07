@@ -1,0 +1,318 @@
+{
+  "id": "ipip-bfm-50",
+  "name": "IPIP Big-Five Factor Markers (50 items)",
+  "description": "Fifty items measuring Extraversion, Agreeableness, Conscientiousness, Emotional Stability and Intellect/Imagination.",
+  "source": "International Personality Item Pool (public domain), ipip.ori.org; Goldberg (1992) Big-Five factor markers",
+  "instructions": "Describe yourself as you generally are now, not as you wish to be in the future. Rate how accurately each statement describes you.",
+  "response_min": 1,
+  "response_max": 5,
+  "response_labels": {
+    "1": "Very inaccurate",
+    "2": "Moderately inaccurate",
+    "3": "Neither accurate nor inaccurate",
+    "4": "Moderately accurate",
+    "5": "Very accurate"
+  },
+  "items": [
+    {
+      "id": "e1",
+      "text": "Am the life of the party.",
+      "subscale": "extraversion",
+      "reverse": false
+    },
+    {
+      "id": "a1",
+      "text": "Feel little concern for others.",
+      "subscale": "agreeableness",
+      "reverse": true
+    },
+    {
+      "id": "c1",
+      "text": "Am always prepared.",
+      "subscale": "conscientiousness",
+      "reverse": false
+    },
+    {
+      "id": "s1",
+      "text": "Get stressed out easily.",
+      "subscale": "emotional_stability",
+      "reverse": true
+    },
+    {
+      "id": "i1",
+      "text": "Have a rich vocabulary.",
+      "subscale": "intellect",
+      "reverse": false
+    },
+    {
+      "id": "e2",
+      "text": "Don't talk a lot.",
+      "subscale": "extraversion",
+      "reverse": true
+    },
+    {
+      "id": "a2",
+      "text": "Am interested in people.",
+      "subscale": "agreeableness",
+      "reverse": false
+    },
+    {
+      "id": "c2",
+      "text": "Leave my belongings around.",
+      "subscale": "conscientiousness",
+      "reverse": true
+    },
+    {
+      "id": "s2",
+      "text": "Am relaxed most of the time.",
+      "subscale": "emotional_stability",
+      "reverse": false
+    },
+    {
+      "id": "i2",
+      "text": "Have difficulty understanding abstract ideas.",
+      "subscale": "intellect",
+      "reverse": true
+    },
+    {
+      "id": "e3",
+      "text": "Feel comfortable around people.",
+      "subscale": "extraversion",
+      "reverse": false
+    },
+    {
+      "id": "a3",
+      "text": "Insult people.",
+      "subscale": "agreeableness",
+      "reverse": true
+    },
+    {
+      "id": "c3",
+      "text": "Pay attention to details.",
+      "subscale": "conscientiousness",
+      "reverse": false
+    },
+    {
+      "id": "s3",
+      "text": "Worry about things.",
+      "subscale": "emotional_stability",
+      "reverse": true
+    },
+    {
+      "id": "i3",
+      "text": "Have a vivid imagination.",
+      "subscale": "intellect",
+      "reverse": false
+    },
+    {
+      "id": "e4",
+      "text": "Keep in the background.",
+      "subscale": "extraversion",
+      "reverse": true
+    },
+    {
+      "id": "a4",
+      "text": "Sympathize with others' feelings.",
+      "subscale": "agreeableness",
+      "reverse": false
+    },
+    {
+      "id": "c4",
+      "text": "Make a mess of things.",
+      "subscale": "conscientiousness",
+      "reverse": true
+    },
+    {
+      "id": "s4",
+      "text": "Seldom feel blue.",
+      "subscale": "emotional_stability",
+      "reverse": false
+    },
+    {
+      "id": "i4",
+      "text": "Am not interested in abstract ideas.",
+      "subscale": "intellect",
+      "reverse": true
+    },
+    {
+      "id": "e5",
+      "text": "Start conversations.",
+      "subscale": "extraversion",
+      "reverse": false
+    },
+    {
+      "id": "a5",
+      "text": "Am not interested in other people's problems.",
+      "subscale": "agreeableness",
+      "reverse": true
+    },
+    {
+      "id": "c5",
+      "text": "Get chores done right away.",
+      "subscale": "conscientiousness",
+      "reverse": false
+    },
+    {
+      "id": "s5",
+      "text": "Am easily disturbed.",
+      "subscale": "emotional_stability",
+      "reverse": true
+    },
+    {
+      "id": "i5",
+      "text": "Have excellent ideas.",
+      "subscale": "intellect",
+      "reverse": false
+    },
+    {
+      "id": "e6",
+      "text": "Have little to say.",
+      "subscale": "extraversion",
+      "reverse": true
+    },
+    {
+      "id": "a6",
+      "text": "Have a soft heart.",
+      "subscale": "agreeableness",
+      "reverse": false
+    },
+    {
+      "id": "c6",
+      "text": "Often forget to put things back in their proper place.",
+      "subscale": "conscientiousness",
+      "reverse": true
+    },
+    {
+      "id": "s6",
+      "text": "Get upset easily.",
+      "subscale": "emotional_stability",
+      "reverse": true
+    },
+    {
+      "id": "i6",
+      "text": "Do not have a good imagination.",
+      "subscale": "intellect",
+      "reverse": true
+    },
+    {
+      "id": "e7",
+      "text": "Talk to a lot of different people at parties.",
+      "subscale": "extraversion",
+      "reverse": false
+    },
+    {
+      "id": "a7",
+      "text": "Am not really interested in others.",
+      "subscale": "agreeableness",
+      "reverse": true
+    },
+    {
+      "id": "c7",
+      "text": "Like order.",
+      "subscale": "conscientiousness",
+      "reverse": false
+    },
+    {
+      "id": "s7",
+      "text": "Change my mood a lot.",
+      "subscale": "emotional_stability",
+      "reverse": true
+    },
+    {
+      "id": "i7",
+      "text": "Am quick to understand things.",
+      "subscale": "intellect",
+      "reverse": false
+    },
+    {
+      "id": "e8",
+      "text": "Don't like to draw attention to myself.",
+      "subscale": "extraversion",
+      "reverse": true
+    },
+    {
+      "id": "a8",
+      "text": "Take time out for others.",
+      "subscale": "agreeableness",
+      "reverse": false
+    },
+    {
+      "id": "c8",
+      "text": "Shirk my duties.",
+      "subscale": "conscientiousness",
+      "reverse": true
+    },
+    {
+      "id": "s8",
+      "text": "Have frequent mood swings.",
+      "subscale": "emotional_stability",
+      "reverse": true
+    },
+    {
+      "id": "i8",
+      "text": "Use difficult words.",
+      "subscale": "intellect",
+      "reverse": false
+    },
+    {
+      "id": "e9",
+      "text": "Don't mind being the center of attention.",
+      "subscale": "extraversion",
+      "reverse": false
+    },
+    {
+      "id": "a9",
+      "text": "Feel others' emotions.",
+      "subscale": "agreeableness",
+      "reverse": false
+    },
+    {
+      "id": "c9",
+      "text": "Follow a schedule.",
+      "subscale": "conscientiousness",
+      "reverse": false
+    },
+    {
+      "id": "s9",
+      "text": "Get irritated easily.",
+      "subscale": "emotional_stability",
+      "reverse": true
+    },
+    {
+      "id": "i9",
+      "text": "Spend time reflecting on things.",
+      "subscale": "intellect",
+      "reverse": false
+    },
+    {
+      "id": "e10",
+      "text": "Am quiet around strangers.",
+      "subscale": "extraversion",
+      "reverse": true
+    },
+    {
+      "id": "a10",
+      "text": "Make people feel at ease.",
+      "subscale": "agreeableness",
+      "reverse": false
+    },
+    {
+      "id": "c10",
+      "text": "Am exacting in my work.",
+      "subscale": "conscientiousness",
+      "reverse": false
+    },
+    {
+      "id": "s10",
+      "text": "Often feel blue.",
+      "subscale": "emotional_stability",
+      "reverse": true
+    },
+    {
+      "id": "i10",
+      "text": "Am full of ideas.",
+      "subscale": "intellect",
+      "reverse": false
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ipip-mini",
+  "name": "IPIP mini example",
+  "description": "Four-item demo of two Big Five domains.",
+  "source": "International Personality Item Pool (public domain), ipip.ori.org",
+  "instructions": "Describe yourself as you generally are now.",
+  "response_min": 1,
+  "response_max": 5,
+  "response_labels": {
+    "1": "Very inaccurate",
+    "5": "Very accurate"
+  },
+  "items": [
+    {
+      "id": "e1",
+      "text": "Am the life of the party.",
+      "subscale": "extraversion",
+      "reverse": false
+    },
+    {
+      "id": "e2",
+      "text": "Don't talk a lot.",
+      "subscale": "extraversion",
+      "reverse": true
+    },
+    {
+      "id": "a1",
+      "text": "Am interested in people.",
+      "subscale": "agreeableness",
+      "reverse": false
+    },
+    {
+      "id": "a2",
+      "text": "Feel little concern for others.",
+      "subscale": "agreeableness",
+      "reverse": true
+    }
+  ]
+}
